@@ -1,0 +1,6 @@
+[submodule "vendor/devalot-slides"]
+	path = vendor/devalot-slides
+	url = git://pmade.com/devalot-slides.git
+[submodule "vendor/wc-streams"]
+	path = vendor/wc-streams
+	url = git://pmade.com/wc-streams.git
